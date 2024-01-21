@@ -11,21 +11,21 @@ const Projects = () => {
               <Link href={"https://mbstu.ac.bd/"}>
                 <div className='cursor-pointer group shadow-md shadow-gray-600 overflow-hidden rounded-md'>
                 <img src="/pro1.jpg" alt="" className='rounded-md duration-200 hover:scale-110'/>
-                <h2 className='text-center text-base capitalize my-4 font-light duration-200 group-hover:underline underline-offset-4'>BSc. in Statistics from Mawlana Bhashani Science & Technology University</h2>
+                <h2 className='text-center text-base my-4 font-light duration-200 group-hover:underline underline-offset-4'>BSc. in Statistics from Mawlana Bhashani Science & Technology University</h2>
                 </div>
               </Link>
 
               <Link href={"https://kgc.ac.bd/"}>
                 <div className='cursor-pointer group shadow-md shadow-gray-600 overflow-hidden rounded-md'>
                 <img src="/pro2.jpg" alt="" className='rounded-md duration-200 hover:scale-110'/>
-                <h2 className='text-center text-base capitalize my-4 font-light duration-200 group-hover:underline underline-offset-4'>HSC in Science from KUMUDINI GOVT. COLLEGE, TANGAIL</h2> 
+                <h2 className='text-center text-base my-4 font-light duration-200 group-hover:underline underline-offset-4'>HSC in Science from KUMUDINI GOVT. COLLEGE, TANGAIL</h2> 
                 </div>
               </Link>
 
               <Link href={"https://deb114681.dhakaeducationboard.gov.bd/"}>
                 <div className='cursor-pointer group shadow-md shadow-gray-600 overflow-hidden rounded-md'>
                 <img src="/pro3.jpg" alt="" className='rounded-md duration-200 hover:scale-110'/>
-                <h2 className='text-center text-base capitalize my-4 font-light duration-200 group-hover:underline underline-offset-4'>SSC in Science from BINDU BASINI GOVT. GIRLS' HIGH SCHOOL</h2>
+                <h2 className='text-center text-base my-4 font-light duration-200 group-hover:underline underline-offset-4'>SSC in Science from BINDU BASINI GOVT. GIRLS' HIGH SCHOOL</h2>
                 </div>
               </Link>
 
